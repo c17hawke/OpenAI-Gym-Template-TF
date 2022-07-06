@@ -1,2 +1,1 @@
-# general_template for generic projects
-general template for any project
+# general_template for OpenAI-Gym-Template-TensorFlow based projects
